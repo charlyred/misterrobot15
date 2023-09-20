@@ -1,0 +1,23 @@
+commit fca0a7db74ac12f2edeebfcf9ff6058b68837115
+Author: charlyred70 <cadsystemsxxi@gmail.com>
+Date:   Wed Sep 20 19:25:20 2023 -0300
+
+    Cambiamos el H1
+
+commit 5f38c257b7c4e9f896507a9d31f285ac2105150d
+Author: charlyred70 <cadsystemsxxi@gmail.com>
+Date:   Wed Sep 20 19:23:18 2023 -0300
+
+    puse un p para la foto
+
+commit f60fe3fd1e1c0360f1ec55dc769ee602a0db11d9
+Author: charlyred70 <cadsystemsxxi@gmail.com>
+Date:   Wed Sep 20 19:18:45 2023 -0300
+
+    cambié el nombre del home
+
+commit ab55ff333ce41d477799ea2bf4dd657287e0895a
+Author: charlyred70 <cadsystemsxxi@gmail.com>
+Date:   Wed Sep 20 19:09:34 2023 -0300
+
+    Estos son los archivos base
